@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ekkCarlos
+- 👋 Hi, I’m @ekkTheo
 - 👀 I’m interested in tecnology and engineering
 - 🌱 I’m currently learning the CS50 course (Harvard public course for coding)
 - 💞️ I've no company I'm looking for
